@@ -1,0 +1,14 @@
+streamlit==1.65.0
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+joblib==1.6.0
+pillow==12.3.0
+SpeechRecognition==3.17.0
+audioop-lts==0.2.2
+gTTS==2.5.4
+transformers==5.18.0
+torch==2.14.1
+torchvision==0.29.1
+deep-translator==1.11.4
+click==8.1.8

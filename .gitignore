@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+temp_voice.wav
+.streamlit/
+.DS_Store
